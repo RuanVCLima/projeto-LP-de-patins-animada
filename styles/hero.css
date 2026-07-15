@@ -223,3 +223,9 @@ section.hero{
         transform: translateY(-15rem);
     }
 }
+
+@media (width<80em) {
+    section.hero{
+        flex-direction: column-reverse;
+    }
+}
