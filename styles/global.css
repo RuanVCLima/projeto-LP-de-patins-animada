@@ -7,14 +7,14 @@
 :root{
     --ff-heading: "Syne", sans-serif;
     --ff-button: "Montserrat", sans-serif;
-    
+
 
     --snitap-sun: #ffcd1e;
-    --sitap-sky-mid: #06b6d4;
-    --sitap-sky-light: #67e8f9;
-    --sitap-joy-mid: #db2777;
-    --sitap-joy-light: #f472b6;
-    --sitap-leaf-mid: #16a34a;
+    --snitap-sky-mid: #06b6d4;
+    --snitap-sky-light: #67e8f9;
+    --snitap-joy-mid: #db2777;
+    --snitap-joy-light: #f472b6;
+    --snitap-leaf-mid: #16a34a;
 
     --text: #000000;
     --highlights: #000000;
