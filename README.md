@@ -108,7 +108,7 @@ Acesse o projeto online:
 ### Home
 
 <p align="center">
-  <img src="./docs/project.gif" alt="Demonstração do projeto" width="100%">
+  <img src="./docs/preview.gif" alt="Demonstração do projeto" width="100%">
 </p>
 
 ---
